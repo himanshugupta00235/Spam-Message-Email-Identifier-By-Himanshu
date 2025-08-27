@@ -115,10 +115,12 @@ Open `sms-spam-detection.ipynb` and run all cells to:
 ## 📄 License
 MIT License (suggested). Add a `LICENSE` file or choose one via GitHub → *Add file → Create new file → “Choose a license template”*.
 
-Screenshots/Demo
-Screenshot 2025-08-27 at 2.39.14 PM
-Screenshot 2025-08-27 at 2.37.51 PM
-Screenshot 2025-08-27 at 2.35.36 PM
+## 🔹 Screenshots
+
+<img width="2127" height="1059" alt="Screenshot 2025-08-27 at 2 39 14 PM" src="https://github.com/user-attachments/assets/13f422e1-3eed-4b26-ac32-1d97a25dd7db" />
+<img width="2058" height="1047" alt="Screenshot 2025-08-27 at 2 37 51 PM" src="https://github.com/user-attachments/assets/78bb797b-1812-43ef-a89e-681ba26d7f6d" />
+<img width="2128" height="1068" alt="Screenshot 2025-08-27 at 2 35 36 PM" src="https://github.com/user-attachments/assets/bbd865d5-0794-48e8-a450-1aba50084efa" />
+
 
 
 
